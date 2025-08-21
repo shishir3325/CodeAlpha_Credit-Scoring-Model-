@@ -25,4 +25,16 @@ This project predicts whether a loan will be approved or rejected using machine 
 ```bash
 pip install pandas scikit-learn matplotlib seaborn
 python credit_scoring_custom.py
+## Dataset Information
+
+⚠️ **Note:** The dataset is `;` (semicolon) separated.  
+
+To load it properly in Python, use:  
+
+```python
+import pandas as pd
+
+df = pd.read_csv("loan_approval_dataset.csv", sep=";")
+print(df.head())
+
 
