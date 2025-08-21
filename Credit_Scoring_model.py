@@ -11,7 +11,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Step 1: Load your CSV (adjust the path if needed)
-df = pd.read_csv("german.csv")
+df = pd.read_csv("/Users/aryantiwari/Documents/loan_approval_dataset.csv")
 
 # Step 2: Clean column names (remove leading/trailing spaces)
 df.columns = df.columns.str.strip()
