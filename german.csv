@@ -1,4 +1,4 @@
-Creditability;Account_Balance;Duration_of_Credit_monthly;Payment_Status_of_Previous_Credit;Purpose;Credit_Amount;Value_Savings_Stocks;Length_of_current_employment;Instalment_per_cent;Sex_Marital_Status;Guarantors;Duration_in_Current_address;Most_valuable_available_asset;Age_years;Concurrent_Credits;Type_of_apartment;No_of_Credits_at_this_Bank;Occupation;No_of_dependents;Telephone;Foreign_Worker
+Creditability,Account_Balance,Duration_of_Credit_monthly,Payment_Status_of_Previous_Credit,Purpose,Credit_Amount,Value_Savings_Stocks,Length_of_current_employment,Instalment_per_cent,Sex_Marital_Status,Guarantors,Duration_in_Current_address,Most_valuable_available_asset,Age_years,Concurrent_Credits,Type_of_apartment,No_of_Credits_at_this_Bank,Occupation,No_of_dependents,Telephone,Foreign_Worker
 1;1;18;4;2;1049;1;2;4;2;1;4;2;21;3;1;1;3;1;1;1
 1;1;9;4;0;2799;1;3;2;3;1;2;1;36;3;1;2;3;2;1;1
 1;2;12;2;9;841;2;4;2;2;1;4;1;23;3;1;1;2;1;1;1
@@ -999,3 +999,4 @@ Creditability;Account_Balance;Duration_of_Credit_monthly;Payment_Status_of_Previ
 0;4;21;4;0;12680;5;5;4;3;1;4;4;30;3;3;1;4;1;2;1
 0;2;12;2;3;6468;5;1;2;3;1;1;4;52;3;2;1;4;1;2;1
 0;1;30;2;2;6350;5;5;4;3;1;4;2;31;3;2;1;3;1;1;1
+
